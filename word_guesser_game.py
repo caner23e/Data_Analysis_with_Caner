@@ -73,4 +73,4 @@ if st.session_state.mistakes == 6:
         del st.session_state.started
 #
 #if mistakes == 6:
-#    print("The word was:", secret)o
+#    print("The word was:", secret)o => i dont need this
